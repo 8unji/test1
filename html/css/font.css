@@ -1,0 +1,8 @@
+@charset "utf-8";
+@font-face {
+    font-family: 'LeferiBase';
+    /*font-family: '변수' 이름 지정 가능(변수) */
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/LeferiBaseType-RegularA.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
